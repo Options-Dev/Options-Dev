@@ -1,7 +1,6 @@
-<p align="center">
-<img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Options-Dev&theme=gotham&show_icons=true">
-<img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Options-Dev&hide=html&layout=compact&theme=gotham" >
+**Discord Communities:**
 
+<a href="https://discord.gg/PBG2w9ZPpC" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
 
 **Languages & Tools:**
 
@@ -13,4 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<p align="center">
+  <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Options-Dev&theme=graywhite&show_icons=true">
+  <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Options-Dev&hide=html&layout=compact&theme=graywhite" >
